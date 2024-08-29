@@ -3,7 +3,62 @@ guid: b2975fe56214a3a438fc9b7641b66a6a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Mat
+    second: {fileID: 2100000, guid: 30fd6d50c1404a84c9ed2d1574e306bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Frame_Mat
+    second: {fileID: 2100000, guid: e4c1e49291a03de4283d3b93547d3bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Mat
+    second: {fileID: 2100000, guid: 0cb386680dc03b247a6c0392e155c4aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Mat
+    second: {fileID: 2100000, guid: d441f68880eb41949b19e8a436fa0c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frames_Rails_Mat
+    second: {fileID: 2100000, guid: 045bfb589e8bf7e4cbb8af9b9355876a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Mat
+    second: {fileID: 2100000, guid: 3915ebe0697d29a4696f0bcb1495a750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Mat
+    second: {fileID: 2100000, guid: d9c4b738c19326443a103edc2dfe07d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seats_Mat
+    second: {fileID: 2100000, guid: 58d9eed558261c940b633980b12cc290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stand_Base_Mat
+    second: {fileID: 2100000, guid: bb2cbc2df61dd75469c4d6c04466f4a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Mat
+    second: {fileID: 2100000, guid: 99099b39671729f499de51f0cecf0ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 33a079f4e5b5d6a4fb64e13297a03b92, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
