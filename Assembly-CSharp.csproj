@@ -60,7 +60,104 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.38f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HoverHandler.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ConfigDialog.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\RayAttachModifier.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRSlider.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Gauge.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\MovableObject.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnKeyOrClick.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\ClawMachine\ClawMachine.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\PlayQuickSound.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRLockSocketInteractor.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\CaptureScreenshot.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GearModeSelector.cs" />
+    <Compile Include="Assets\XRI_Examples\Props\Scripts\TargetRing.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRLever.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\WalkthroughStep.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRJoystick.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\BankedPlatform.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\KeyLockSystem\Key.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Events\InteractionEvent.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\AutoSocketAttach.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\AidsPanel.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\DeviceDebugInfo.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\OnSelectInteractable.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\AnimationEventActionFinished.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\AnimationEventActionBegin.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\Walkthrough.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HideOnStart.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\ObjectReset.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcPhysicsInteractionStationAnalytics.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcSceneAnalytics.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\WaypointCurve.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcSocketInteractorsStationAnalytics.cs" />
+    <Compile Include="Assets\XRI_Examples\Setup\Scripts\LocomotionSetup.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\TelemetryChartToolbar.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\InteractionAnimator.cs" />
+    <Compile Include="Assets\XRI_Examples\ActivateInteractables\Scripts\LaunchProjectile.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\LocomotionManager.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\TransformJoint.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputMonitor.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRGripButton.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\OnVelocity.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\PerlerMachine\PerlerMachineController.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Dashboard.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\UI\LazyFollow.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnStart.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\OnTilt.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GenericMenu.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\WalkthroughTriggers\WalkthroughTrigger.cs" />
+    <Compile Include="Assets\XRI_Examples\Setup\Scripts\TargetFilterToggle.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\OnAnimationEvent.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\KeyLockSystem\Keychain.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShowValueFromSlider.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MultiToggle.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Events\EditorEvent.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\PauseVehicle.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRKnob.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Utils\XrcAnalyticsUtils.cs" />
+    <Compile Include="Assets\XRI_Examples\Gaze\Scripts\ProgressBarController.cs" />
+    <Compile Include="Assets\XRI_Examples\Setup\Scripts\DistanceCalculationToggle.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\DestroyObject.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\ClawMachine\UfoAbductionForce.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRInfiniteInteractable.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ForceFeedbackMonitor.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\IgnitionKey.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\FollowHeading.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\EscapeDialog.cs" />
+    <Compile Include="Assets\XRI_Examples\Props\Scripts\OnCollision.cs" />
+    <Compile Include="Assets\XRI_Examples\Props\Scripts\Breakable.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\KeyLockSystem\Lock.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcActiveInteractableStationAnalytics.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcSetupStationAnalytics.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\UI\TurnToFace.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\Xrc3DUIInteractionStationAnalytics.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MenuOverlay.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcGrabInteractableStationAnalytics.cs" />
+    <Compile Include="Assets\VideoControl.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\WalkthroughTriggers\ButtonPressTrigger.cs" />
+    <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\UI\ZoneScale.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShiftIndicator.cs" />
+    <Compile Include="Assets\XRI_Examples\Props\Scripts\OnTrigger.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\InputMediator.cs" />
+    <Compile Include="Assets\XRI_Examples\Gaze\Scripts\ToggleComponentZone.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRLockGridSocketInteractor.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\VehicleSetupDialog.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\EndlessMovingSurface.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRPushButton.cs" />
+    <Compile Include="Assets\XRI_Examples\Props\Scripts\Unbreakable.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\KeyLockSystem\IKeychain.cs" />
+    <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\ClawMachine\FlippyDoor.cs" />
+    <Compile Include="Assets\XRI_Examples\Physics\Scripts\Door.cs" />
+    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputConfigDialog.cs" />
+    <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRGridSocketInteractor.cs" />
+    <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\XrcAnalytics.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Vehicle Physics Pro\Sdk\VehiclePhysics.dll" />
+    <None Include="Assets\XRI_Examples\UI_2D\Shaders\WorldUI.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -397,6 +494,10 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="VehiclePhysics">
+      <HintPath>Assets\Vehicle Physics Pro\Sdk\VehiclePhysics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
