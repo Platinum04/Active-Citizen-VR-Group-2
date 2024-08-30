@@ -5,7 +5,7 @@ namespace UnityEngine.XR.Content.Interaction.Analytics
     /// </summary>
     [AddComponentMenu("")]
     [DisallowMultipleComponent]
-    class XrcSceneAnalytics : MonoBehaviour
+    public class XrcSceneAnalytics : MonoBehaviour
     {
         void Awake()
         {
