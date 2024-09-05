@@ -60,21 +60,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.38f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HoverHandler.cs" />
     <Compile Include="Assets\Scripts\ClimbingProvider.cs" />
     <Compile Include="Assets\Mirza Beig\Particle Systems\_Common\Scripts\CameraShake.cs" />
     <Compile Include="Assets\Barrier Pack\Scripts\GlobalFog.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ConfigDialog.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\RayAttachModifier.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\Ghost.cs" />
     <Compile Include="Assets\Barrier Pack\Scripts\PostEffectsBase.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRSlider.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Gauge.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\MovableObject.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnKeyOrClick.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\ClawMachine\ClawMachine.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\PlayQuickSound.cs" />
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\RaceTrackCheckpointsManager.cs" />
@@ -85,8 +80,6 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\Trail.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\CaptureScreenshot.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GearModeSelector.cs" />
     <Compile Include="Assets\Mirza Beig\Particle Systems\_Common\Scripts\_Demo\DemoManager.cs" />
     <Compile Include="Assets\XRI_Examples\Props\Scripts\TargetRing.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRLever.cs" />
@@ -94,7 +87,6 @@
     <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\WalkthroughStep.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRJoystick.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\BankedPlatform.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Mirza Beig\Particle Systems\_Common\Scripts\_Demo\LoopingParticleSystemsManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
@@ -103,16 +95,13 @@
     <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Events\InteractionEvent.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\AutoSocketAttach.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\AidsPanel.cs" />
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\Trails\TrailEmitter.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\DeviceDebugInfo.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\OnSelectInteractable.cs" />
     <Compile Include="Assets\Scripts\CharacterDriver.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\AnimationEventActionFinished.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\AnimationEventActionBegin.cs" />
     <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\Walkthrough.cs" />
     <Compile Include="Assets\VRCarControl.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\HideOnStart.cs" />
     <Compile Include="Assets\Mirza Beig\Particle Systems\_Common\Scripts\_Demo\FPSTest.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\ObjectReset.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcPhysicsInteractionStationAnalytics.cs" />
@@ -124,23 +113,18 @@
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\CheckPointEvent.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\XRI_Examples\Setup\Scripts\LocomotionSetup.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\TelemetryChartToolbar.cs" />
     <Compile Include="Assets\Mirza Beig\Particle Systems\_Common\Scripts\_Demo\FPSDisplay.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\InteractionAnimator.cs" />
     <Compile Include="Assets\Scripts\playerJump.cs" />
     <Compile Include="Assets\XRI_Examples\ActivateInteractables\Scripts\LaunchProjectile.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\LocomotionManager.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\TransformJoint.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputMonitor.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRGripButton.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\OnVelocity.cs" />
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\PerlerMachine\PerlerMachineController.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Dashboard.cs" />
     <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\UI\LazyFollow.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\CloseOnStart.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\OnTilt.cs" />
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\DemoScripts\CameraFollow.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\GenericMenu.cs" />
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\Suspension.cs" />
     <Compile Include="Assets\Mirza Beig\Distortion Shockwaves VFX\Scripts\MouseFollow.cs" />
     <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\WalkthroughTriggers\WalkthroughTrigger.cs" />
@@ -154,10 +138,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\OnAnimationEvent.cs" />
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\KeyLockSystem\Keychain.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShowValueFromSlider.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MultiToggle.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Events\EditorEvent.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\PauseVehicle.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRKnob.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Utils\XrcAnalyticsUtils.cs" />
     <Compile Include="Assets\XRI_Examples\Gaze\Scripts\ProgressBarController.cs" />
@@ -169,11 +150,7 @@
     <Compile Include="Assets\XRI_Examples\Global\Scripts\DestroyObject.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\ClawMachine\UfoAbductionForce.cs" />
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRInfiniteInteractable.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ForceFeedbackMonitor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\IgnitionKey.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\FollowHeading.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\EscapeDialog.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\XRI_Examples\Props\Scripts\OnCollision.cs" />
     <Compile Include="Assets\XRI_Examples\Props\Scripts\Breakable.cs" />
@@ -190,7 +167,6 @@
     <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\UI\TurnToFace.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\Xrc3DUIInteractionStationAnalytics.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\MenuOverlay.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\Behaviours\XrcGrabInteractableStationAnalytics.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\Mirza Beig\Particle Systems\_Common\Scripts\_Demo\MouseFollow.cs" />
@@ -201,17 +177,14 @@
     <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\WalkthroughTriggers\ButtonPressTrigger.cs" />
     <Compile Include="Assets\XRI_Examples\VRWalkthrough\Scripts\UI\ZoneScale.cs" />
     <Compile Include="Assets\Scripts\ClimbAnchor.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\ShiftIndicator.cs" />
     <Compile Include="Assets\XRI_Examples\Props\Scripts\OnTrigger.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\InputMediator.cs" />
     <Compile Include="Assets\XRI_Examples\Gaze\Scripts\ToggleComponentZone.cs" />
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRLockGridSocketInteractor.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\VehicleSetupDialog.cs" />
     <Compile Include="Assets\Barrier Pack\Scripts\ContrastStretch.cs" />
     <Compile Include="Assets\Arcade_Car_Physics\Scripts\WheelVehicle.cs" />
     <Compile Include="Assets\Scripts\handAnim.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Sample Assets\Scripts\Utility\EndlessMovingSurface.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\XRPushButton.cs" />
     <Compile Include="Assets\XRI_Examples\Props\Scripts\Unbreakable.cs" />
     <Compile Include="Assets\Mirza Beig\Distortion Shockwaves VFX\Scripts\FPSTest.cs" />
@@ -219,7 +192,6 @@
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\KeyLockSystem\IKeychain.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\ClawMachine\FlippyDoor.cs" />
     <Compile Include="Assets\XRI_Examples\Physics\Scripts\Door.cs" />
-    <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\InputConfigDialog.cs" />
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRGridSocketInteractor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\XRI_Examples\Global\Scripts\Analytics\XrcAnalytics.cs" />
@@ -240,7 +212,6 @@
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\Vehicle Physics Pro\Sdk\VehiclePhysics.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
@@ -574,10 +545,6 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.38f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="VehiclePhysics">
-      <HintPath>Assets\Vehicle Physics Pro\Sdk\VehiclePhysics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
