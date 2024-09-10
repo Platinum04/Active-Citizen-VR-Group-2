@@ -191,6 +191,7 @@
     <Compile Include="Assets\Mirza Beig\Particle Systems\_Common\Scripts\_Demo\OneshotParticleSystemsManager.cs" />
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\KeyLockSystem\IKeychain.cs" />
     <Compile Include="Assets\XRI_Examples\UI_3D\Scripts\ClawMachine\FlippyDoor.cs" />
+    <Compile Include="Assets\Twopointline.cs" />
     <Compile Include="Assets\XRI_Examples\Physics\Scripts\Door.cs" />
     <Compile Include="Assets\XRI_Examples\SocketInteractors\Scripts\XRGridSocketInteractor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
